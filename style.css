@@ -1,0 +1,16 @@
+iframe{
+    width: 50rem;
+    justify-items: center;
+}
+
+
+ul{
+    display: flex;
+    list-style: none;
+    width: 50rem;
+}
+
+img{
+    width: 200px;
+    align-items: center;
+}
